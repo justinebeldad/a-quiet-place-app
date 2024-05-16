@@ -8,5 +8,10 @@
     <string name="click_here_to_register">Click here to register</string>
     <string name="logout">logout</string>
     <string name="no_user">No user.</string>
+    <string name="user_settings">User Settings</string>
+    <string name="customisation">Customisation</string>
+    <string name="notifications">Notifications</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="user_profile">User Profile</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
