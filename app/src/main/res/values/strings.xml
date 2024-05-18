@@ -13,5 +13,7 @@
     <string name="notifications">Notifications</string>
     <string name="accessibility">Accessibility</string>
     <string name="user_profile">User Profile</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="reset_password">Reset Password</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
