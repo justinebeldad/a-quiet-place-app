@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205029012768",
+    "project_id": "a-quiet-place-423518",
+    "storage_bucket": "a-quiet-place-423518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205029012768:android:9504934e14a5cdec719345",
+        "android_client_info": {
+          "package_name": "com.example.aqpf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205029012768-ritfivk0r0gntdn50rlrf8iqi2ta8n46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aqpf",
+            "certificate_hash": "e2c45ba64e10f5818a1090c67f6d02cf5e62e2a3"
+          }
+        },
+        {
+          "client_id": "205029012768-u6k2j03n3niukojijjq678vutevq53nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXF4Y-M_92BLAoonOybT-jfYIWIpiS3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205029012768-u6k2j03n3niukojijjq678vutevq53nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

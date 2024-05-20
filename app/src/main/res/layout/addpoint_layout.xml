@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/image_upload"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:paddingBottom="10dp"
+        android:background="@color/common_google_signin_btn_text_light_default" />
+
+    <EditText
+        android:id="@+id/add_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/add_opening_hours"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/opening_hours"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/add_comfort"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/comfort_rating"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/add_quietness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/quietness_rating"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/add_spaciousness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="name"
+        android:hint="@string/spaciousness_rating"
+        android:inputType="number" />
+
+    <Switch
+        android:id="@+id/add_charging_spots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/charging_spots"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+    <Button
+        android:id="@+id/uploadButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload Photo" />
+
+</LinearLayout>
